@@ -1,1 +1,2 @@
 ctrl+alt+n  执行
+ctrl+\   注释
